@@ -1,0 +1,27 @@
+DEBUG	2020-05-31 10:20:38,789	0	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Jdbc Driver initialized
+DEBUG	2020-05-31 10:20:40,223	1434	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Established the connection
+DEBUG	2020-05-31 10:20:40,366	1577	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Prepared Statement object is created
+DEBUG	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Resultset object is created
+DEBUG	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Getting the result
+INFO	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Data is fatched
+DEBUG	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Ps is closed
+DEBUG	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	RS is closed
+DEBUG	2020-05-31 10:20:40,397	1608	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Con is closed
+DEBUG	2020-05-31 10:24:36,287	0	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Jdbc Driver initialized
+DEBUG	2020-05-31 10:24:37,649	1362	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Established the connection
+DEBUG	2020-05-31 10:24:37,764	1477	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Prepared Statement object is created
+DEBUG	2020-05-31 10:24:37,796	1509	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Resultset object is created
+DEBUG	2020-05-31 10:24:37,796	1509	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Getting the result
+INFO	2020-05-31 10:24:37,802	1515	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Data is fatched
+DEBUG	2020-05-31 10:24:37,802	1515	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Ps is closed
+DEBUG	2020-05-31 10:24:37,802	1515	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	RS is closed
+DEBUG	2020-05-31 10:24:37,802	1515	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Con is closed
+DEBUG	2020-05-31 10:26:53,253	0	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Jdbc Driver initialized
+DEBUG	2020-05-31 10:26:54,621	1368	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Established the connection
+DEBUG	2020-05-31 10:26:54,783	1530	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Prepared Statement object is created
+DEBUG	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Resultset object is created
+DEBUG	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Getting the result
+INFO	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Data is fatched
+DEBUG	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Ps is closed
+DEBUG	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	RS is closed
+DEBUG	2020-05-31 10:26:54,813	1560	com.souratech.jdbc.SelectTest1FileAndHtmlLayout	[main]	Con is closed
